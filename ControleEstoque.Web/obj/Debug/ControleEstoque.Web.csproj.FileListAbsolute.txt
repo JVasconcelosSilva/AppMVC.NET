@@ -59,8 +59,8 @@ C:\VSProjects\ControleEstoque\ControleEstoque.Web\bin\System.Web.WebPages.Deploy
 C:\VSProjects\ControleEstoque\ControleEstoque.Web\bin\System.Web.WebPages.dll
 C:\VSProjects\ControleEstoque\ControleEstoque.Web\bin\System.Web.WebPages.Razor.dll
 C:\VSProjects\ControleEstoque\ControleEstoque.Web\bin\WebGrease.dll
-C:\VSProjects\ControleEstoque\ControleEstoque.Web\bin\System.Web.Helpers.xml
 C:\VSProjects\ControleEstoque\ControleEstoque.Web\bin\System.Web.Mvc.xml
+C:\VSProjects\ControleEstoque\ControleEstoque.Web\bin\System.Web.Helpers.xml
 C:\VSProjects\ControleEstoque\ControleEstoque.Web\bin\System.Web.Optimization.xml
 C:\VSProjects\ControleEstoque\ControleEstoque.Web\bin\System.Web.Razor.xml
 C:\VSProjects\ControleEstoque\ControleEstoque.Web\bin\System.Web.WebPages.xml
@@ -69,8 +69,8 @@ C:\VSProjects\ControleEstoque\ControleEstoque.Web\bin\System.Web.WebPages.Razor.
 C:\VSProjects\ControleEstoque\ControleEstoque.Web\bin\Newtonsoft.Json.xml
 C:\VSProjects\ControleEstoque\ControleEstoque.Web\bin\Antlr3.Runtime.pdb
 C:\VSProjects\ControleEstoque\ControleEstoque.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\VSProjects\ControleEstoque\ControleEstoque.Web\bin\pt-br\System.Web.Helpers.resources.dll
 C:\VSProjects\ControleEstoque\ControleEstoque.Web\bin\pt-br\System.Web.Mvc.resources.dll
+C:\VSProjects\ControleEstoque\ControleEstoque.Web\bin\pt-br\System.Web.Helpers.resources.dll
 C:\VSProjects\ControleEstoque\ControleEstoque.Web\bin\pt-br\System.Web.Optimization.resources.dll
 C:\VSProjects\ControleEstoque\ControleEstoque.Web\bin\pt-br\System.Web.Razor.resources.dll
 C:\VSProjects\ControleEstoque\ControleEstoque.Web\bin\pt-br\System.Web.WebPages.resources.dll
